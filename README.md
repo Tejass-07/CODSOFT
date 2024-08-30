@@ -2,31 +2,26 @@
 
 ![CodSoft Logo](https://www.codsoft.in/logo.png)
 
-## Internship Details
+Date : 29/07/2024
+ID:CS11WX356755
 
-- **Date:** 14/08/2023
-- **ID:** CS07WX43672
 
-Dear Tejas Shirsath,
-
-Congratulations! We are delighted to offer you the "Java Programming" internship position at **CodSoft**. We are excited about your decision to join our team.
-
-The internship is scheduled for a duration of 4 weeks, starting from August 15, 2023, to September 15, 2023. This internship is designed to provide you with valuable educational opportunities, focusing on learning, skill development, and gaining practical knowledge.
-
-## Internship Expectations
-
-During the internship, we expect you to engage fully in all assigned tasks, giving your best effort to each one. You will be provided with clear and reasonable instructions that you are required to follow.
-
-## Conclusion
-
-We believe that this internship experience will contribute significantly to your growth. We look forward to working together and assisting you in achieving your career aspirations.
-
-Best of luck!
-
-Thank you,
-
-Founder
-CodSoft
+Dear,
+Tejas Santosh Shirsath
+We would like to congratulate you on being selected for the “ Java Programming” virtual
+internship position with “CodSoft”. We at CodSoft are excited that you will join our team.
+The duration of the internship will be of 4 weeks, starting from 01 August 2024 to 31 August 2024.
+The internship is an educational opportunity for you hence the primary focus is on learning and
+developing new skills and gaining hands-on knowledge. We believe that you will perform all your
+tasks/projects.
+As an intern, we expect you to perform all assigned tasks to the best of your ability and follow any
+lawful and reasonable instructions provided to you.
+We are confident that this internship will be a valuable experience for you, we look forward to
+working with you and helping you achieve your career goals.
+By accepting this offer, you commit to executing assigned tasks diligently and ensuring excellence in
+all aspects of your work.
+Best of Luck!
+Thank You!
 
 Website: [www.codsoft.in](https://www.codsoft.in)
 Email: contact@codsoft.in

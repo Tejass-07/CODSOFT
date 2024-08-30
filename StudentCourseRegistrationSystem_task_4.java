@@ -105,11 +105,11 @@ class Student {
     }
 }
 
-public class Task_4_StudentCourseRegistrationSystem {
+public class StudentCourseRegistrationSystem_task_4 {
     private List<Student> students;
     private List<Course> courses;
 
-    public Task_4_StudentCourseRegistrationSystem() {
+    public StudentCourseRegistrationSystem_task_4() {
         students = new ArrayList<>();
         courses = new ArrayList<>();
     }
@@ -142,7 +142,7 @@ public class Task_4_StudentCourseRegistrationSystem {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Task_4_StudentCourseRegistrationSystem system = new Task_4_StudentCourseRegistrationSystem();
+       StudentCourseRegistrationSystem_task_4 system = new StudentCourseRegistrationSystem_task_4();
 
         // Add initial students and courses here
         system.addStudent(new Student(1, "John Doe"));

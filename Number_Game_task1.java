@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Task_1_Number_Game {
+public class Number_Game_task1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

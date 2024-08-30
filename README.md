@@ -181,29 +181,6 @@ Enter withdrawal amount: $800
 Withdrawal of $800.0 successful. Current balance: $400.0
 
 
-
-# Task 4: Student Course Registration System
-
-Welcome to the Student Course Registration System! This program allows students to register for courses and manage their course schedule.
-
-## Features
-
-- Store course information, including course code, title, description, capacity, and schedule.
-- Store student information, including student ID, name, and registered courses.
-- Display available courses with details and available slots.
-- Allow students to register for courses from the available options.
-- Enable students to drop courses they have registered for.
-- Interactive console-based user interface.
-
-## How to Use
-
-1. Clone or download this repository to your local machine.
-2. Compile the Java file(s) using a Java compiler or IDE.
-3. Run the compiled program to start the Student Course Registration System.
-4. Follow the on-screen prompts to interact with the system, including course registration and removal.
-5. Exit the program when done.
-
-
 # Task 5: Student Management System
 
 Welcome to the Student Management System! This program allows you to manage student information including names, roll numbers, and grades.
